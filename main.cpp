@@ -1,6 +1,5 @@
 /*
     Autor: Giulliano Lyra Paz
-    Matricula: 121151618
     E-mail: giulliano94@gmail.com
 
 */
