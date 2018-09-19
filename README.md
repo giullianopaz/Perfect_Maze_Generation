@@ -8,7 +8,8 @@
 
     O labirinto gerado por esse código foi salvo no arquivo 'perfect_maze.txt'
 
-##### Caso queira visualizar melhor o labirinto, foi criado um código em Python 3 utilizando pygame, o qual é jogável. OBS: As colisões ainda não foram implementadas.
+##### Caso queira visualizar melhor o labirinto, foi criado um código em Python 3 utilizando pygame, o qual é jogável.
+OBS: As colisões ainda não foram implementadas.
 
     Exemplo: python3 draw_maze.py 35 63
 
